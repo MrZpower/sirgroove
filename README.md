@@ -17,6 +17,8 @@ Install all dependencies using
 
     npm install
 
+    [![Run on Repl.it](https://repl.it/badge/github/bananaprotocol/sirgroove)](https://repl.it/github/bananaprotocol/sirgroove)
+
 Make sure to have your bot token and YouTube API key set in .env
 
 ```
